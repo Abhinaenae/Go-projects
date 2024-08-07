@@ -1,4 +1,4 @@
 # Go-projects
-My projects that are made in Go. TBC.
+My simple projects that are made primarily in Go. TBC.
 
 - Quiz Game
